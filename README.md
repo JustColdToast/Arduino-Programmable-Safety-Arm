@@ -7,7 +7,11 @@ This is a version of the PSA on TinkerCad, running the sofware provided, and all
 
 ## Below are some resources pertaining to this project
 [Flow Chart](https://imgur.com/Bef4Oah)
+
 [Tinkercad Circuit](https://imgur.com/RYxic7s)
+
 [Circuit Diagram](https://imgur.com/zNoO7DK)
+
 [Technical Drawing](https://drive.google.com/open?id=1qnlo1Zj92EqHDWku5DCsIvkkV9JtC5pn)
+
 [Operation Handout](https://drive.google.com/open?id=1htvVKKVERs7gz3_1c18QGhfO6S7aqbLl)
