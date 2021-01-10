@@ -6,6 +6,7 @@ The basic functions of the program can be tested at the following [link](https:/
 This is a version of the PSA on TinkerCad, running the software provided, and allowing control of the servos and various buttons.
 
 # The Idea Behind The Project
+## Summary of Key Points in Design Document
 The Programmable Safety Arm, is intended to be an intelligent robotics system for use in a mixed variety of applications, ranging from industrial to hobby. It can, kinematically, be classified as a stationary robot. Running on a partially closed-loop system, the PSA’s use is dictated by the end effector attached to it. However, the most important focus of the PSA is safety.
 
 The Programmable Safety Arm is designed to be used in assembly or personal assistance scenarios while reducing the risk of bodily harm to biological organisms within it’s working area. As such, the PSA is best-suited for jobs in which it will be working in close proximity to humans. This encompasses scenarios such as on a robot-human mixed assembly line, or even in a hobby situation where the robot acts as an assistant to a primary worker.
