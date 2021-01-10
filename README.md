@@ -14,6 +14,6 @@ This is a version of the PSA on TinkerCad, running the software provided, and al
 
 [Technical Drawing](https://drive.google.com/open?id=1qnlo1Zj92EqHDWku5DCsIvkkV9JtC5pn)
 
-[Operation Handout](https://drive.google.com/open?id=1htvVKKVERs7gz3_1c18QGhfO6S7aqbLl)
+[Operation Handout](https://drive.google.com/open?id=1htvVKKVERs7gz3_1c18QGhfO6S7aqbLl) (The company I put at the bottom is just a little joke, not an actual company)
 
 #### For an in-depth design report detailing the project, it's need, uses, and ability for expansion, refer to the attached Design Document
